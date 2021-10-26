@@ -66,39 +66,3 @@ Exemples commentés.
 ### Après-midi
 
 Réalisez le __TP Counter__
-
-## Jour 3
-
-### Matin
-
-1. Routing
-2. Mise en production
-
-Exemples commentés.
-
-### Après-midi (réalisé ensembe en cours)
-
-Un site d'e-commerce avec React (démarrage).
-
-1. Créez une maquette
-2. Identifier les composants
-3. Modélisation + api
-4. Développement
-5. Gestion de l'authentification
-
-## Jour 3 (React Native)
-
-### Pré-requis
-
-Connaître les bases de React.
-
-### Matin
-
-1. Créer une app
-2. Intégrer une navigation
-3. Intégrer un formulaire
-4. Persistance
-
-### Après-midi
-
-TP Photo + Géolocalisation
