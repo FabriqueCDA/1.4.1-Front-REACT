@@ -1,68 +1,34 @@
-# REACT Découverte
+# Module React Intro CDA
 
-Ces briefs sont organisés en durées, cadrés sur trois jours d'expérimentations et un temps de mise à jour des compétences en Javascript (éventuellement). Le nom des dossiers vous indique l'ordre de réalisation (1.1 = jour 1 le matin, 1.2 = jour 1 l'après-midi).  
-  
-Le défis de l'après-midi du troisième jour sera réalisé ensemble en cours et s'appuiera sur les bases que vous aurez acquises. Si vous voulez le préparer, produisez une maquette qui servira d'exemple. Nous gagnerons du temps.
-  
-Faites *Avant de commencer* et *Bien démarrer* __avant__ la première séance de formation sur REACT (temps estimé : 4h).
+## Niveau 0 : je n'ai jamais testé react, ou alors il y a trop longtemps...
 
-## Avant de commencer
+Cours de démarrage [ici](https://1drv.ms/p/s!Ahf5x4hPXrq3hfRcoWXEKrLkjvPPTg?e=iIQ6ae)
+- tuto penser en React
+- Fetch sur une api
+- TP counter
 
-React utilise de façon récurrente quelques techniques en Javascript qu'il est important de connaître avant de se lancer, jetez un oeil au dossier __0 - Avant de commencer (techniques Javascript)__.
+## Niveau 1 : je connais le fonctionnement et la syntaxe de base
 
-Il contient un ensemble d'exemple de codes qui pourront vous servir de référence et de support pour vos enquêtes sur le sujet :
+TP counter
 
-- Portée des variables : *var*, *let* et *const*
-- Template de chaîne (template strings)
-- Paramètres de fonctions
-- Ecriture de fonction
-- This
-- Déstructuration d'objet
-- Structuration d'objet
-- Map
-- Filter
-- Reduce
-- Spread Operator
-- Promesses
-- Async / Await
-- Les modules
-- Propriétés dynamiques d'objets
+Modifs Faflix :
+- régler les problèmes d'affichage sur la page d'un film : image déformée, étoiles, gestion des images des acteurs,...
+- bug lorsqu'on affiche les films favoris alors qu'aucun favori n'a été ajouté
+- responsive global
+- refactoring
+- gestion de la perte de disponibilité de l'api
 
-## Bien démarrer
-Reportez-vous au tutoriel officiel et à la doc REACT, bien faite, pour assimiler les bases du framework.
+## Niveau 2 : je sais créer des composants et gérer une petite application
 
-> Merci de lire [Page d'accueil de React](https://fr.reactjs.org/).
+Modifs Faflix (voir ci-dessus)
+Refactoring + services
 
-> Merci de lire [Bien démarrer](https://fr.reactjs.org/docs/getting-started.html). ;)
+## Niveau 3 : c'est bon, tout cela m'amuse mais j'aimerais aller plus loin...
 
----
+Refactoring Faflix avec Gatsby
 
-## Jour 1
+## Autres activités possibles
 
-### Matin
+voir [Tic Tac Toe]([Tutoriel](https://fr.reactjs.org/tutorial/tutorial.html))
 
-1. Découvrir React
-   1. La méthode React.createElement()
-   2. JSX
-2. Comprendre le state
 
-Exemples commentés.
-
-### Après-midi
-Vous avez avancé
-
-> Activité : [Penser en React](https://fr.reactjs.org/docs/thinking-in-react.html)
-
-## Jour 2
-
-### Matin
-
-1. Cycle de vie d'un composant
-2. Gestion des évènements
-3. Créer une application React
-
-Exemples commentés.
-
-### Après-midi
-
-Réalisez le __TP Counter__
